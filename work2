@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>大作业</title>
+	<link rel="stylesheet" type="text/css" href="work'.css"/>
+	<style type="text/css">
+		#slider{
+			margin-top: 400px;
+			width:150px;
+			height:150px;
+			position:absolute;
+			background:#CCC;
+			opacity:0.4;
+			cursor: move;
+			display:none; 
+			filter:alpha(opacity=40);}
+		#img2{
+			position:absolute;
+			margin-left: 400px;
+			display:none; 
+			width:400px;
+			height:400px;
+			overflow:hidden;
+			border: 1px dotted purple;}
+		#Bimg{
+			position:absolute;
+			left:0;
+			top:0;}
+	</style>
+</head>
+<body class="cover">
+<div id="yi">
+	<div id="yizuo">帮5买 ，享帮帮</div>
+	<div id="yiyou">
+		<img src="img/common2.jpg" style="margin-right: 15px;">
+		<img src="img/common3.jpg" style="margin-right: 15px;">
+		<img src="img/common4.jpg" style="margin-right: 15px;">
+		<a href="">登录&nbsp</a>
+		<a href="">注册&nbsp</a>
+		<img src="img/common11.jpg">
+		<a href="">消息&nbsp</a>
+		<img src="img/dingdan.jpg">
+		<a href="">我的订单&nbsp</a>
+		<a href="">我的收藏&nbsp</a>
+		<a href="">帮钻兑换&nbsp</a>
+		<img src="img/tp-my-phone.png">
+		<a href="">手机版&nbsp</a>
+		<a href="">帮5淘&nbsp</a>
+		<a href="">客户服务&nbsp</a>
+		<img src="img/gouwuche.jpg">
+		<a href="">购物车&nbsp</a>
+		<span style="color: orange;">0</span>
+	</div>
+</div>
+<div id="er">
+	<div id="erzuo"><img src="img/logo_03.jpg" style="margin-top: 30px;"></div>
+	<div id="erzhong">
+		<input id="shuru" type="text" value="输入商品网址或关键词，直播全网，快速帮5购!">
+		<input id="sousuoanniu" type="button" value="搜全网">
+	</div>
+	<div id="eryou">
+		<table style="position: absolute;margin-left: 900px;margin-top: -45px;height: 50px;border:solid 1px gray;width: 150px;">
+			<tr>
+				<td style="position:absolute; margin-left:60px;margin-top:3px;"><img src="img\common5.jpg"></td>
+				<td style="position: absolute;margin-top:25px;margin-left:15px;">400-085-0505</td>
+			</tr>
+		</table>
+		<table style="position: absolute;margin-left:1050px;margin-top: -45px;width:150px;height: 50px;border:solid 1px gray;">
+			<tr>
+				<td style="position:absolute; margin-left:60px;margin-top:3px;"><img src="img\common11.jpg"></td>
+				<td style="position: absolute;margin-top:25px;margin-left:15px;">mc@b5m.com</td>
+			</tr>
+		</table>
+		<table style="position: absolute;margin-left:1197px;margin-top:-47px;width:105px;height:55px;">
+			<tr>
+				<td style="color: white;background-color: orange;"><img src="img\wenhao.jpg">常见问题</td>
+			</tr>
+		</table>
+	</div>
+	<div id="eryou"></div>
+	<div id="a">
+	<a class="a1" href="">洗发护发 | </a>
+	<a class="a1" href="">日本纸尿裤 | </a>
+	<a href="">身体乳 | </a>
+	<a href="">内衣文胸 | </a>
+	<a class="a2" href="">ipone 6s | </a>
+	<a class="a2" href="">iPad Air2 | </a>
+	<a href="">牛仔裤 | </a>
+	<a href="">奶粉 | </a>
+	<a href="">防晒霜 | </a>
+	<a href="">伞</a>
+</div>
+</div>
+</div>
+
+<div>
+<div style="background-color: black;height: 50px;margin-top:30px;">
+	<div style="margin-left: 50px;background-color: red;float: left;width: 80px;height: 50px;">
+	<p style="margin-top: 25px;color: white;margin-left: 25px;">首页</p>
+	</div>
+	<div style="float: left;">
+	<a class="a0" href="">热门品牌</a>
+	<a class="a0" href="">美妆个户</a>
+	<a class="a0" href="">服饰鞋包</a>
+	<a class="a0" href="">母婴生活</a>
+	<a class="a0" href="">食品保健</a>
+	<a class="a0" href="">韩国直邮</a>
+	<a class="a0" href="">跨境购</a>
+	<img src="img\ff_03.jpg">
+	</div>
+</div>
+<p style="margin-left: 50px;">首页>美容护肤/美体/精油>防晒>韩国RE:CIPE 水晶清爽防水防晒喷雾SPF50 150ml/瓶</p>
+
+
+<div id="box">
+<div style="float: left;border:solid,1px,red;margin-top: 20px;" id="img1">
+	<img src="img/pp0.jpeg"><div id="slider"></div>
+</div>
+<div id="img2">
+	<img src="img/pp0.jpeg" id="Bimg">
+</div>
+	<p style="margin-top: 100px;">韩国RE:CIPE 水晶清爽防水防晒喷雾SPF50 150ml/瓶</p>
+	<p style="margin-top: 15px;font-size: 3px;">【限购3件】超透明无痕防晒，防水防汗定妆，保湿降温不黏腻。水晶防晒喷雾，喷后皮</p>
+	<p style="margin-top: 10px;font-size: 3px;">肤水润，不油，不留白，更不会像防晒霜那样抹不开，非常实用，开始存货吧。</p>
+	<p style="margin-top: 30px;font-size: 3px;margin-left:20px;">价格<span style="color: orange;margin-left: 20px;">&yen;71</span><span style="text-decoration: line-through;margin-left: 25px;">&yen;150</span></p>
+	<img src="img\ss_09.jpg">
+	<p style="font-size: 3px;">化妆品净含量</p>
+	<ul>
+		<li style="position: absolute; margin-left:500px;margin-top: -20px;"><input id="button150" type="button" value="150ml" style="background-color: white;border-color: white;width: 50px;height: 20px;" onclick="show150()"></li>
+		<li style="position: absolute; margin-left:560px;margin-top: -20px;"><input id="button200" type="button" value="200ml" style="background-color: white;border-color: white;width: 50px;height: 20px;" onclick="show200()"></li>
+	</ul>
+	<p style="font-size: 3px;margin-top: 10px;">数量<input style="width: 25px;height: 25px;margin-left: 50px;" type="button" value="-" onclick="jian()"><input id="num" type="text" value="1" style="width: 50px;height: 25px;"><input style="width:25px;height: 25px;" type="button" value="+" onclick="jia()"><span>(库存5件)</span></p>
+	<img src="img\oo_03.jpg">
+	<p style="margin-left: 100px;">您已选择<span id="ml" style="color: orange;margin-left: 30px;">"150ml"</span></p>
+	<input style="color: red;background-color: white;border-color: red;width: 150px;height: 30px;" type="button" value="立即购买">
+	<input style="color: white;background-color: red;border-color: red;width: 150px;height: 30px;" type="button" value="加入购物车" onclick="javascrtpt:window.location.href='file:///F:/17%E7%BA%A7/javascript/Web%E5%BC%80%E5%8F%91%E4%BA%8C%E5%A4%A7%E4%BD%9C%E4%B8%9A/%E4%BB%BB%E5%8A%A1%E6%89%80%E9%9C%80%E5%B0%8F%E5%9B%BE/buy.html'">
+	<div>
+		<img style="margin-left: -260px; margin-top: 30px;" src="img\spanl.jpg"><img src="img\sp0.jpeg" onclick="showpp0()"><img src="img\sp1.jpeg" onclick="showpp1()"><img style="margin-left: 100px;" src="img\spanr.jpg">
+	</div>
+
+</div>
+<div style="position: absolute;margin-left: 1000px;margin-top: -500px;">
+	<img src="img\ww_07.jpg">
+</div>
+<div>
+	<img style="margin-top:100px;margin-left: 100px;" src="img\a_07.jpg">
+</div>
+
+<div style="border-bottom-color: gray;">
+		<img src="img\loginB.jpg" style="position: absolute;margin-top: 10px;margin-left: 50px;">
+		<img src="img\erweima.jpg" style="position: absolute;margin-top: 10px;margin-left:1200px;">
+		<div style="position: absolute;margin-top: 10px;margin-left: 250px;">
+			<h3>购物指南</h3>
+			<ul>
+				<li class="li5"><a href="" style="color: black;">如何下单</a></li>
+				<li class="li5"><a href="" style="color: black;">帮5购流程</a></li>
+				<li class="li5"><a href="" style="color: black;">订单查询</a></li>
+				<li class="li5"><a href="" style="color: black;">物流配送</a></li>
+			</ul>
+		</div>
+		<div style="position: absolute;margin-top: 10px;margin-left: 400px;">
+			<h3>支付相关</h3>
+			<ul>
+				<li class="li5"><a href="" style="color: black;">支付方式</a></li>
+				<li class="li5"><a href="" style="color: black;">安全设置</a></li>
+				<li class="li5"><a href="" style="color: black;">账户信息</a></li>
+			</ul>
+		</div>
+		<div style="position: absolute;margin-top: 10px;margin-left: 550px;">
+			<h3>售后服务</h3>
+			<ul>
+				<li class="li5"><a href="" style="color: black;">取消订单</a></li>
+				<li class="li5"><a href="" style="color: black;">申请售后</a></li>
+				<li class="li5"><a href="" style="color: black;">退货流程</a></li>
+				<li class="li5"><a href="" style="color: black;">退款相关</a></li>
+			</ul>
+		</div>
+		<div style="position: absolute;margin-top: 10px;margin-left: 700px;">
+			<h3>VIP服务</h3>
+			<ul>
+				<li class="li5"><a href="" style="color: black;">VIP优惠</a></li>
+				<li class="li5"><a href="" style="color: black;">如何成为VIP</a></li>
+				<li class="li5"><a href="" style="color: black;">超级帮钻</a></li>
+			</ul>
+		</div>
+		<div style="position: absolute;margin-top: 10px;margin-left: 850px;">
+			<h3>帮韩品</h3>
+			<ul>
+				<li class="li5"><a href="" style="color: black;">韩国正品</a></li>
+				<li class="li5"><a href="" style="color: black;">闪电发货</a></li>
+				<li class="li5"><a href="" style="color: black;">帮韩品售后</a></li>
+			</ul>
+		</div>
+		<div style="position: absolute;margin-top: 10px;margin-left: 1000px;">
+			<h3>更多</h3>
+			<ul>
+				<li class="li5"><a href="" style="color: black;">手机APP</a></li>
+				<li class="li5"><a href="" style="color: black;">帮5采APP</a></li>
+				<li class="li5"><a href="" style="color: black;">帮5淘插件</a></li>
+				<li class="li5"><a href="" style="color: black;">其他</a></li>
+			</ul>
+		</div>
+	</div>
+	<div style="position: absolute;margin-top: 210px;margin-left: 250px;">
+		<a href="" style="color: black;margin-right: 10px">关于帮5买   |</a>
+		<a href="" style="color: black;margin-right: 10px">联系我们   |</a>
+		<a href="" style="color: black;margin-right: 10px">合作商家   |</a>
+		<a href="" style="color: black;margin-right: 10px">友情链接   |</a>
+		<a href="" style="color: black;margin-right: 10px">加入我们   |</a>
+		<a href="" style="color: black;margin-right: 10px">移动应用   |</a>
+		<a href="" style="color: black;margin-right: 10px">热门   |</a>
+		<a href="" style="color: black;margin-right: 10px">广告联盟   |</a>
+		<a href="" style="color: black;margin-right: 10px">使用条款</a>
+	</div>
+	<div style="position: absolute;margin-top: 280px;margin-left: 350px;">
+		<h5>Copyright &copy; 2011-2015 B5M.COM.ALLrights reserved.Powered by B5Msoft Co.Ltd.</h5>
+	</div>
+	<div style="position: absolute;margin-top: 300px;margin-left: 100px;"><h5>增值电信业务经营许可证：沪B2-20130065号|中华人民共和国互联网药品信息服务资格证书（沪）-非经营性-2013-0034沪卫（中医）网审【2015】 10032号 沪ICP备11034776号-3|食品流通许可证：</h5></div>
+	<div style="position: absolute;margin-top: 320px;margin-left: 600px;"><h5>SP3101151410301755</h5></div>
+	<div style="position: absolute;margin-top: 340px;margin-left: 250px;">
+		<img src="img\bo1.gif"><img src="img\bo2.png"><img src="img\bo3.gif"><img src="img\bo4.png"><img src="img\bo5.png"><img src="img\bo6.png"><img src="img\bo7.png">
+	</div>
+</div>
+</div>
+
+</body>
+<script type="text/javascript">
+	//1.获取元素
+  		var box=document.getElementById("box");
+  		var img1=document.getElementById("img1");
+  		var img2=document.getElementById("img2");
+  		var slider=document.getElementById("slider");
+  		var Bimg=document.getElementById("Bimg");
+  		//2.为左侧的小图绑定鼠标移入、移出、移动事件
+  		img1.onmouseover=function(){
+  			slider.style.display="block";
+  			img2.style.display="block";
+  		}
+  		img1.onmouseout=function(){
+  			slider.style.display="none";
+  			img2.style.display="none";
+  		}
+  		img1.onmousemove=function(ev){
+  			var ev=ev||window.event;
+  			//(1).根据鼠标位置计算放大镜位置
+  			var left=ev.clientX-box.offsetLeft-slider.offsetWidth/2;
+  			var top=ev.clientY-box.offsetTop-slider.offsetHeight/2;
+  			var maxLeft=img1.offsetWidth-slider.offsetWidth;
+  			var maxTop=img1.offsetHeight-slider.offsetHeight;
+  			left=left>maxLeft?maxLeft:(left<0?0:left);
+  			top=top>maxTop?maxTop:(top<0?0:top);
+  			//(2).设置放大镜的位置
+  			slider.style.left=left+"px";
+  			slider.style.top=top+"px";
+  			//(3).根据左侧放大镜的位置，计算右侧大图移动比例
+  			var w=left/maxLeft;
+  			var h=top/maxTop;
+  			//(4).计算大图的最大移动范围
+  			var BimgLeft=img2.offsetWidth-Bimg.offsetWidth;
+  			var BimgTop=img2.offsetHeight-Bimg.offsetHeight;
+  			//(5).计算大图的移动距离，设置位置
+  			Bimg.style.left=w*BimgLeft+"px";
+  			Bimg.style.top=h*BimgTop+"px";
+  		}
+
+	var img1=document.getElementById("img1").childNodes[1];
+	var ml=document.getElementById("ml").firstChild;
+	var button150=document.getElementById("button150");
+	var button200=document.getElementById("button200");
+	var num=document.getElementById("num");
+	function jian(){
+		num.value=num.value-1;
+		console.log(num.value);
+		while(num.value==0){
+			num.value=0;
+		}
+	}
+	function jia(){
+		num.value=num.value-(-1);
+		console.log(num.value);
+		while(num.value>5){
+			num.value=5;
+		}
+	}
+	function show150(){
+		var ml=document.getElementById("ml");
+		ml.innerHTML="150ml";
+		console.log(ml);
+	}
+	function show200(){
+		var ml=document.getElementById("ml");
+		ml.innerHTML="200ml";
+		console.log(ml);
+	}
+	function showpp0(){
+		img1.src="img/pp0.jpeg";
+	}
+	function showpp1(){
+		img1.src="img/pp1.jpeg";
+	}
+</script>
+</html>
