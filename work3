@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>加入购物车</title>
+</head>
+<body style="background-color: gray;">
+	<div style="width: 400px;height: 250px;margin-top: 200px;margin-left: 450px;background-color: white;">
+		<p style="position: absolute; margin-top:60px;margin-left:80px;font-size:30px;">商品已加入购物车！</p>
+		<div><input style="position: absolute; margin-top: 150px;margin-left:20px;width:150px;height:50px;background-color:white;color: red;" type="button" value="继续购物" onclick="javascrtpt:window.location.href='file:///F:/17%E7%BA%A7/javascript/Web%E5%BC%80%E5%8F%91%E4%BA%8C%E5%A4%A7%E4%BD%9C%E4%B8%9A/%E4%BB%BB%E5%8A%A1%E6%89%80%E9%9C%80%E5%B0%8F%E5%9B%BE/work.html'"></div>
+		<div><input style="position: absolute;margin-top: 150px;margin-left: 210px;width:150px;height:50px;background-color: red;color: white;border-color: red;" type="button" value="去购物车结算" onclick="javascrtpt:window.location.href='file:///F:/17%E7%BA%A7/javascript/Web%E5%BC%80%E5%8F%91%E4%BA%8C%E5%A4%A7%E4%BD%9C%E4%B8%9A/%E4%BB%BB%E5%8A%A1%E6%89%80%E9%9C%80%E5%B0%8F%E5%9B%BE/work1.html'"></div>
+	</div>
+</body>
+</html>
